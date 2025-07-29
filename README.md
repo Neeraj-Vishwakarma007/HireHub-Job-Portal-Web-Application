@@ -74,16 +74,8 @@ HireHub is a secure and scalable web-based job portal platform built to connect 
 - Achieved REST-style request handling using **Servlet 4.0**, minimizing backend latency.
 - Achieved average response time of **<200ms** under load testing for 50 concurrent users.
 
----
-
-### 🏁 Outcome & Impact
-- Completed and deployed all core modules of a real-world job portal with working OTP and resume management.
-- Demonstrated proficiency in **Java Full Stack development**, API integration, and database-driven applications.
-- Project received **positive feedback** during presentation for robustness, real-time features, and secure design.
-
----
-
 ### 🏁 Outcome & Impact
 - Delivered production-ready modules for a job portal system used in testing phase by internal HR teams.
 - Strengthened my practical skills in **Java EE**, **Servlets**, **JDBC**, and full-stack development workflows.
 - Gained hands-on experience in integrating 3rd-party APIs, managing sessions, and securing web apps.
+-----
