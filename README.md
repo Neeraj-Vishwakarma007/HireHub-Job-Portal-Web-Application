@@ -1,124 +1,44 @@
-💼 HireHub – Job Portal Web Application
-A full-featured, role-based job portal system designed to streamline the recruitment lifecycle — from job posting to candidate application — with real-time OTP verification, resume management, and secure authentication using Google reCAPTCHA.
+## 🧑‍💻 Experience Gained – Java Full Stack Intern  
+**Company:** ISRDC Technologies  
+**Duration:** March 2024 – July 2024  
+**Role:** Java Full Stack Intern
 
-Built during my Java Full Stack Internship, this project showcases practical implementation of Java EE technologies, servlet-based RESTful architecture, database interaction using JDBC, and seamless frontend-backend integration.
+### 🔹 Overview
+During my internship at ISRDC Technologies, I actively contributed to the development of full-stack web applications with a focus on Java EE technologies, RESTful architecture, and frontend-backend integration. I worked on designing scalable APIs, securing web modules, and enhancing performance through optimized code and database practices.
 
-🔧 Tech Stack
-Frontend:
+---
 
-HTML, CSS, JavaScript, Bootstrap
+### ✅ Key Responsibilities & Learnings
 
-Backend:
+#### 🔧 Backend Development (Java + Servlets)
+- Developed REST-style backend APIs using **Servlet 4.0** and **JSP** for modules like user authentication, data submission, and admin operations.
+- Implemented **JavaMail** for sending automated transactional emails (OTP verification, password recovery).
+- Integrated **Twilio API** for sending SMS-based OTPs.
+- Applied **session management** and access control for role-based dashboards.
 
-Core Java (Java 11)
+#### 🗄️ Database Integration
+- Designed relational schemas in **MySQL** for user, job, and application modules.
+- Performed CRUD operations using **JDBC** with prepared statements for secure DB access.
+- Optimized SQL queries and database indexing for faster query execution.
 
-Servlet 4.0
+#### 🌐 Frontend Development
+- Built responsive UI components using **HTML5**, **CSS3**, **Bootstrap**, and **JavaScript**.
+- Created forms with real-time validations, error handling, and user feedback mechanisms.
+- Ensured seamless UX with AJAX-based form submissions and dynamic data rendering.
 
-JavaMail API
+#### 🔒 Security & API Integration
+- Integrated **Google reCAPTCHA** to prevent bot registrations.
+- Implemented secure file upload (PDF resumes) with type and size validation.
+- Used external APIs (Twilio, JavaMail) for real-time communication services.
 
-Twilio API (SMS OTP)
+#### 🧪 Testing & Deployment
+- Deployed application manually to **Apache Tomcat 9** server.
+- Conducted unit testing and debugging to ensure functional correctness.
+- Achieved average response time below 200ms for key API endpoints.
 
-Database:
+---
 
-MySQL
-
-Server:
-
-Apache Tomcat 9
-
-Security:
-
-Google reCAPTCHA
-
-OTP Verification (Email & SMS)
-
-Deployment:
-
-Manual WAR deployment to Apache Tomcat
-
-✨ Key Features
-🔐 User Authentication
-Role-based login for Candidate and Recruiter
-
-OTP verification (Email/SMS) using JavaMail and Twilio API
-
-Google reCAPTCHA to block bots and spam accounts
-
-👨‍💼 Recruiter Module
-Add, edit, or delete job listings
-
-View list of applicants for each job
-
-👨‍💻 Candidate Module
-Browse and search jobs by keywords
-
-Apply to jobs with PDF resume uploads
-
-Track applications
-
-📬 Notification System
-Email and SMS-based OTP verification
-
-Confirmation messages for key user actions
-
-📊 Performance
-REST-style servlets with optimized response time (avg < 200ms)
-
-Designed for concurrent usage (up to 50 users)
-
-99.8% simulated uptime in local testing
-
-🗃️ Database Schema Overview
-Table Name	Description
-users	Common table for login credentials & role data
-candidates	Profile data & uploaded resumes
-recruiters	Recruiter profiles & company details
-job_posts	Active job listings with metadata
-applications	Applied jobs, candidate references
-
-🚀 How to Run (Local Setup)
-Clone the Repo
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/hirehub-jobportal.git
-Setup Database
-
-Import schema.sql into MySQL
-
-Update DB credentials in DBUtil.java
-
-Configure APIs
-
-Add your Twilio credentials in OtpSender.java
-
-Update SMTP settings in EmailService.java
-
-Deploy
-
-Package as WAR using your IDE (e.g., Eclipse or IntelliJ)
-
-Deploy to Apache Tomcat 9's webapps/ folder
-
-Access App
-
-Open browser: http://localhost:8080/HireHub/
-
-📚 What I Learned as a Java Full Stack Intern
-Practical use of Servlets and session management in Java
-
-Designing modular, secure REST-style services
-
-Real-world integration of third-party APIs (JavaMail, Twilio, Google reCAPTCHA)
-
-Optimizing MySQL queries for concurrent usage
-
-Deploying and testing applications on Apache Tomcat
-
-📌 Future Improvements
-Add pagination and filtering to job listings
-
-Admin dashboard to manage platform users
-
-Upgrade to Spring Boot and Thymeleaf for improved scalability
+### 🏁 Outcome & Impact
+- Delivered production-ready modules for a job portal system used in testing phase by internal HR teams.
+- Strengthened my practical skills in **Java EE**, **Servlets**, **JDBC**, and full-stack development workflows.
+- Gained hands-on experience in integrating 3rd-party APIs, managing sessions, and securing web apps.
