@@ -35,6 +35,51 @@ During my internship at ISRDC Technologies, I actively contributed to the develo
 - Deployed application manually to **Apache Tomcat 9** server.
 - Conducted unit testing and debugging to ensure functional correctness.
 - Achieved average response time below 200ms for key API endpoints.
+## 💼 Project Experience – HireHub: Job Portal Web Application  
+**Project Title:** HireHub  
+**Role:** Java Full Stack Developer  
+**Tech Stack:** Core Java, Servlet 4.0, JSP, JDBC, MySQL, HTML, CSS, Bootstrap, JavaScript, JavaMail, Twilio, Google reCAPTCHA  
+**Duration:** April 2024 – July 2024
+
+### 🔹 Overview
+HireHub is a secure and scalable web-based job portal platform built to connect candidates with recruiters. It supports real-time resume-based job applications, role-based dashboards, email/SMS OTP verification, and bot prevention mechanisms. Developed as part of my final year major project and internship, it demonstrates complete frontend-backend integration using Java EE technologies.
+
+---
+
+### ✅ Key Modules & Learnings
+
+#### 🔐 Authentication & Security
+- Implemented role-based registration and login system (Candidate/Recruiter).
+- Integrated **Google reCAPTCHA** to prevent bot signups.
+- Developed **OTP verification** using **JavaMail (email)** and **Twilio (SMS)** for enhanced security.
+- Enforced secure session handling and access control across modules.
+
+#### 👨‍💼 Recruiter Dashboard
+- Built UI/UX for job posting and management using **HTML, Bootstrap, JavaScript**.
+- Enabled recruiters to view, edit, and delete job listings.
+- Designed backend using **Servlets** and **MySQL** to handle job-related operations.
+
+#### 👨‍💻 Candidate Dashboard
+- Developed job browsing and search features with keyword-based filtering.
+- Implemented secure resume upload (PDF only) with size and format validation.
+- Enabled users to track their application status via dashboard.
+
+#### 🗄️ Database & Integration
+- Designed normalized database schema in **MySQL** covering users, jobs, applications, and profiles.
+- Used **JDBC** for executing prepared SQL statements, ensuring protection against SQL injection.
+- Created reusable utility classes for DB connectivity and common operations.
+
+#### 🌐 Frontend & Performance
+- Built responsive UI with **Bootstrap**, interactive elements with **JavaScript**.
+- Achieved REST-style request handling using **Servlet 4.0**, minimizing backend latency.
+- Achieved average response time of **<200ms** under load testing for 50 concurrent users.
+
+---
+
+### 🏁 Outcome & Impact
+- Completed and deployed all core modules of a real-world job portal with working OTP and resume management.
+- Demonstrated proficiency in **Java Full Stack development**, API integration, and database-driven applications.
+- Project received **positive feedback** during presentation for robustness, real-time features, and secure design.
 
 ---
 
