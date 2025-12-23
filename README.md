@@ -5,7 +5,7 @@
 **Duration:** April 2024 – July 2024
 
 ### 🔹 Overview
-HireHub is a secure and scalable web-based job portal platform built to connect candidates with recruiters. It supports real-time resume-based job applications, role-based dashboards, email/SMS OTP verification, and bot prevention mechanisms. Developed as part of my final year major project and internship, it demonstrates complete frontend-backend integration using Java EE technologies.
+HireHub is a secure and scalable web-based job portal platform built to connect candidates with recruiters. It supports real-time resume-based job applications, role-based dashboards, email/SMS OTP verification, and bot prevention mechanisms. Developed as part of my final year major project and internship, it demonstrates complete frontend-backend integration using J2EE technologies.
 
 ---
 
