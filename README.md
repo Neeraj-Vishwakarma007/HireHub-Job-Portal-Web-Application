@@ -1,7 +1,7 @@
 ## 💼 Project Experience – HireHub: Job Portal Web Application  
 **Project Title:** HireHub  
 **Role:** Java Full Stack Developer  
-**Tech Stack:** Core Java, Servlet 4.0, JSP, JDBC, MySQL, HTML, CSS, Bootstrap, JavaScript, JavaMail, Twilio, Google reCAPTCHA  
+**Tech Stack:** Core Java, Servlet 4.0, JSP, JDBC, MySQL, HTML, CSS, Bootstrap, JavaScript, JavaMail, Twilio, Apache Kafka,Google reCAPTCHA  
 **Duration:** April 2024 – July 2024
 
 ### 🔹 Overview
